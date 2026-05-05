@@ -1,4 +1,5 @@
 # Recession-Indicator-Analysis
+Logistic regression model predicting US recessions 6 months in advance using FRED macroeconomic indicators. Built a SQLite database in Python, engineered lagged features, and achieved an AUC of 0.725 on out-of-sample data.
 
 ## Overview
 This project builds a logistic regression model to predict US recessions 
